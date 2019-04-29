@@ -1,0 +1,19 @@
+{
+  "name": "build-setup",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgastDev/build-setup.git"
+  },
+  "author": "Oleh Krotovych <OlgastDev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlgastDev/build-setup/issues"
+  },
+  "homepage": "https://github.com/OlgastDev/build-setup#readme"
+}
